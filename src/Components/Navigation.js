@@ -7,7 +7,7 @@ const Navigation = (props) => {
   return (
     <nav className='navbar navbar-expand-lg navbar-light bg-light'>
       <Link to='/' className='navbar-brand'>
-        Navbar
+        Home
       </Link>
       <button
         className='navbar-toggler'
